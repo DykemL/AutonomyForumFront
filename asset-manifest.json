@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AutonomyForumFront/static/css/main.a240c550.css",
-    "main.js": "/AutonomyForumFront/static/js/main.81ba7b89.js",
+    "main.js": "/AutonomyForumFront/static/js/main.98e3e43c.js",
     "static/js/787.74da5797.chunk.js": "/AutonomyForumFront/static/js/787.74da5797.chunk.js",
     "index.html": "/AutonomyForumFront/index.html",
     "main.a240c550.css.map": "/AutonomyForumFront/static/css/main.a240c550.css.map",
-    "main.81ba7b89.js.map": "/AutonomyForumFront/static/js/main.81ba7b89.js.map",
+    "main.98e3e43c.js.map": "/AutonomyForumFront/static/js/main.98e3e43c.js.map",
     "787.74da5797.chunk.js.map": "/AutonomyForumFront/static/js/787.74da5797.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a240c550.css",
-    "static/js/main.81ba7b89.js"
+    "static/js/main.98e3e43c.js"
   ]
 }
